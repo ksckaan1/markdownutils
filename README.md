@@ -1,5 +1,7 @@
 # markdownutils
 
+This package creates HTML output from markdown file
+
 ## Installation
 
 ```go get github.com/ksckaan1/markdownutils```
