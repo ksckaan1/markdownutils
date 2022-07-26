@@ -2,6 +2,13 @@
 
 This package creates HTML output from markdown file
 
+## Usage
+
+```go
+input := "input text"
+htmlOP := markdownutils.EditMarkdown(input)
+```
+
 ## Installation
 
 ```go get github.com/ksckaan1/markdownutils```
