@@ -109,3 +109,12 @@ HTML output is classed.
 
     :::youtube vjHAvx47d98:::
 
+### Interative Go Editor
+
+This short code show interactive Go editor in iframe
+
+Used website: https://goplay.tools
+
+    :::playground NeviD0awXjt:::
+
+![](readme/editor.png)
