@@ -33,6 +33,24 @@
         fmt.Println("hello!")
     }
     ```
+![](readme/code.png)
+
+**HTML OUTOUT**
+
+HTML output is classed.
+
+```html
+<div class="customcode">
+<code class="lang-go">
+<pre><span class="line"><span class="cl"><span class="kn">package</span> <span class="nx">main</span>
+</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="s">“fmt”</span>
+</span></span><span class="line"><span class="cl"><span class="kd">func</span> <span class="nf">main</span><span class="p">(){</span>
+</span></span><span class="line"><span class="cl">     <span class="nx">fmt</span><span class="p">.</span><span class="nf">Println</span><span class="p">(</span><span class="s">“hello!”</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></pre>
+</code>
+</div>
+```
 
 ### Classed Code Area with Title
 
@@ -43,6 +61,26 @@
         fmt.Println("hello!")
     }
     ```
+
+![](readme/codewithtitle.png)
+
+**HTML OUPUT**
+
+HTML output is classed.
+
+```html
+<div class="customcode">
+<div class="title">this is a title</div>
+<code class="lang-go">
+<pre><span class="line"><span class="cl"><span class="kn">package</span> <span class="nx">main</span>
+</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="s">“fmt”</span>
+</span></span><span class="line"><span class="cl"><span class="kd">func</span> <span class="nf">main</span><span class="p">(){</span>
+</span></span><span class="line"><span class="cl">     <span class="nx">fmt</span><span class="p">.</span><span class="nf">Println</span><span class="p">(</span><span class="s">“hello!”</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></pre>
+</code>
+</div>
+```
 
 ### Hint Boxes
 
